@@ -3,7 +3,7 @@
 This is a C program that demonstrates memory compression using the GBDI compression algorithm on given memory dump files in the ELF format. The program reads an ELF file containing LLC memory dump data, extracts cache lines from the loadable segments, and compresses them using the GBDI compression algorithm. The original size and compressed size of the cache lines are then printed, along with the compression ratio.
 
 
-## How to run *gbdi_compressor.c*
+## How to run *gbdi_compression.c*
 
 To compile the program use the following command
 
